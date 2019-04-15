@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lieyeetha.gpuopenanalytics.com/sitemap.xml
